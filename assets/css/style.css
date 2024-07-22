@@ -423,7 +423,7 @@ a{
 
 .masonry-sizer,
 .masonry-item {
-    width: 30%;
+    /* width: 30%; */
 }
 
 .masonry-item img {
@@ -436,7 +436,7 @@ a{
 @media (max-width: 768px) {
     .masonry-sizer,
     .masonry-item {
-        width: 40%;
+        /* width: 40%; */
     }
 
     .title-container h2 {
@@ -447,7 +447,7 @@ a{
 @media (max-width: 576px) {
     .masonry-sizer,
     .masonry-item {
-        width: 100%;
+        /* width: 100%; */
     }
 
     .title-container h2 {
